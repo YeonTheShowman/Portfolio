@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(212,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(218,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(248,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(255,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(287,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(294,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(329,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(334,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(339,21): warning C4552: '+': result of expression not used
+D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(347,21): warning C4553: '==': result of expression not used; did you intend '='?
+  ConsoleApplication1.vcxproj -> D:\CDV\1_year\1_sem\ITP_LAB\final project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
